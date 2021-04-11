@@ -26,14 +26,14 @@
   - reCAPTCHA
   - JavaMail
   - iamport
-  - 도로면주소
+  - 도로명주소
 
 ## 설치 프로그램
 
 이 곳에서 설치에 관련된 이야기를 해주시면 좋습니다.
-- 작업 툴 : Eclipse(JavaEE IDE로 설치)(단, Java SE 8 version이 깔려있어야 설치가 진행 됩니다.)
+- 작업 툴 : Eclipse (JavaEE IDE로 설치)(단, Java SE 8 version이 깔려있어야 설치가 진행 됩니다.)
 - 서버 : Apache Tomcat® server (version은 최신으로 사용해도 무방합니다.)
-- DB : MYSQL and MYSQL Developers(단, Developers는 선택 사항입니다.)
+- DB : MYSQL and MYSQL Developers (단, Developers는 선택 사항입니다.)
 
 ### Prerequisites / 선행 조건
 
