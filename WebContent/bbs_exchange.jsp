@@ -61,10 +61,6 @@
 		System.out.println("userID : " + userID + "      pageNumber :" + pageNumber);
 		%>
 	
-
-	
-
-
 	<!-- Navigation -->
 
 	<nav id="mainNav"
