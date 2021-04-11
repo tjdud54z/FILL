@@ -6,6 +6,28 @@
   하지만 그 쓰레기가 예술가나 학교의 준비물로 사용돼 하나의 작품, 예술 등이 될 수 있습니다.
   이런한 쓰레기이지만, 이것들을 버리지 않고, 서로 간에 공유하여 쓰레기를 줄여 환경 오염을 완화 시키는 프로젝트입니다.
 
+## 기술 스택
+
+- Front-End
+  - HTML, CSS, JavaScript
+  - JQuery
+  - BootStrap
+- Back-End
+  - Java
+  - Mybatis
+- WebServer
+  - Apache-Tomcat 9.0
+- DataBase
+  - Oracle 11g
+- Framework
+  - Spring
+- API
+  - Websocket 
+  - reCAPTCHA
+  - JavaMail
+  - iamport
+  - 도로면주소
+
 ## 설치 프로그램
 
 이 곳에서 설치에 관련된 이야기를 해주시면 좋습니다.
